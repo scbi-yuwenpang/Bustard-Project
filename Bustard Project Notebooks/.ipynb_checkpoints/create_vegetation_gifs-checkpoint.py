@@ -21,8 +21,9 @@ from rasterio.enums import Resampling
 # =============================================================================
 
 # Folder containing the downloaded GEE GeoTIFFs.
-# Windows example: Path(r"G:\My Drive\")
-INPUT_DIR = Path(r"C:\Users\PangY\OneDrive - Smithsonian Institution\Bustard\01_Data\GEE Satellite\GEE_Landsat_Annual_Export")
+# Windows example: Path(r"G:\My Drive\GEE_Landsat_Annual_Export")
+# macOS/Linux example: Path("/home/name/GEE_Landsat_Annual_Export")
+INPUT_DIR = Path(r"D:\GEE_Landsat_Annual_Export")
 
 # Output folder for the GIFs.
 OUTPUT_DIR = INPUT_DIR / "GIFs"
