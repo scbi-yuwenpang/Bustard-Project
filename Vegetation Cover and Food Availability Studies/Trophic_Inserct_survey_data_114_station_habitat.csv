@@ -1,0 +1,116 @@
+﻿Station,Lat,Lon,Code,Habitat_Fr,Habitat_en2,,,Station,Habitat,,,Station
+ALBALF1,33.20027,-4.03529,ALF,Alfatière,Macrochloa steppe,,,ALBALF1,Macrochloa steppe,,,ALBALF1
+ALBALF2,33.2583,-3.9876,ALF,Alfatière,Macrochloa steppe,,,ALBALF2,Macrochloa steppe,,,ALBALF2
+ALBALF3,33.29604,-3.94828,ALF,Alfatière,Macrochloa steppe,,,ALBALF3,Macrochloa steppe,,,ALBALF3
+ALBLDD1,33.17201,-3.97828,WED,Ligne de drainage,Gully,,,ALBLDD+1,Gully,,,ALBLDD+1
+ALBLDD2,33.21472,-3.91305,WED,Ligne de drainage,Gully,,,ALBLDD+2,Gully,,,ALBLDD+2
+ALBLDD3,33.26426,-3.84344,WED,Ligne de drainage,Gully,,,ALBLDD+3,Gully,,,ALBLDD+3
+ALBREG1,33.14186,-3.94049,REG,Reg,Reg,,,ALBLDD1,Gully,,,ALBLDD1
+ALBREG3,33.28356,-3.89417,REG,Reg,Reg,,,ALBLDD2,Gully,,,ALBLDD2
+ALBSEP1,33.14973,-3.94129,EPA,Epandage,Alluvial spread area,,,ALBLDD3,Gully,,,ALBLDD3
+ALBSEP2,33.22191,-3.93053,EPA,Epandage,Alluvial spread area,,,ALBREG1,Reg,,,ALBREG1
+ALBSEP3,33.2133,-3.85988,EPA,Epandage,Alluvial spread area,,,ALBREG3,Reg,,,ALBREG3
+BOUEX1,32.41966,-2.25862,EPA,Epandage/reg à Fredolia,Alluvial spread area,,,ALBSEP1,Alluvial spread area,,,ALBSEP1
+BOUEX2,32.42911,-2.27631,EPA,Epandage/reg à Fredolia,Alluvial spread area,,,ALBSEP2,Alluvial spread area,,,ALBSEP2
+BOUIN1,32.41504,-2.27241,EPA,Epandage/reg à Fredolia,Alluvial spread area,,,ALBSEP3,Alluvial spread area,,,ALBSEP3
+BOUIN2,32.41793,-2.27529,EPA,Epandage/reg à Fredolia,Alluvial spread area,,,BOUEX1,Alluvial spread area,,,BOUEX1
+ENJEX1,33.12976,-4.55768,REG,Reg,Reg,,,BOUEX2,Alluvial spread area,,,BOUEX2
+ENJEX2,33.10762,-4.60643,REG,Reg,Reg,,,BOUIN1,Alluvial spread area,,,BOUIN1
+ENJEX3,33.15221,-4.61005,REG,Reg,Reg,,,BOUIN2,Alluvial spread area,,,BOUIN2
+ENJIN1,33.13827,-4.57151,REG,Reg,Reg,,,ENJEX1,Reg,,,ENJEX1
+ENJIN2,33.12315,-4.5986,REG,Reg,Reg,,,ENJEX2,Reg,,,ENJEX2
+ENJIN3,33.14671,-4.59543,REG,Reg,Reg,,,ENJEX3,Reg,,,ENJEX3
+FREDO1,32.35329,-2.26124,REG,Reg à Fredolia,Reg,,,ENJIN1,Reg,,,ENJIN1
+FREDOST,32.34936,-2.27426,REG,Reg à Fredolia,Reg,,,ENJIN2,Reg,,,ENJIN2
+LDD+1,33.13916,-3.98695,WED,Ligne de drainage,Gully,,,ENJIN3,Reg,,,ENJIN3
+LDD+2,33.21383,-3.88741,WED,Ligne de drainage,Gully,,,FredoliaStep4,Reg,,,FredoliaStep4
+LDD+3,33.30595,-3.7685,WED,Ligne de drainage,Gully,,,FredoliaStep5,Reg,,,FredoliaStep5
+LDDACACIA3,29.16256,-8.53265,WED,Ligne de drainage à Acacia,Gully,,,LDDACACIA3,Gully,,,LDDACACIA3
+LDDACACIA4,29.17983,-8.54063,WED,Ligne de drainage à Acacia,Gully,,,LDDACACIA4,Gully,,,LDDACACIA4
+LDDACACIA5,29.22637,-8.51193,WED,Ligne de drainage à Acacia,Gully,,,LDDACACIA5,Gully,,,LDDACACIA5
+MAAEX1,33.2414,-2.74147,REG,Reg,Reg,,,MAAEX1,Reg,,,MAAEX1
+MAAIN1,33.25644,-2.73065,REG,Reg,Reg,,,MAAIN1,Reg,,,MAAIN1
+MISEX1,33.01786,-4.11318,REG,Reg,Reg,,,MISEX1,Reg,,,MISEX1
+MISEX2,33.01891,-4.08023,REG,Reg,Reg,,,MISEX2,Reg,,,MISEX2
+MISEX3,33.00683,-4.12298,REG,Reg,Reg,,,MISEX3,Reg,,,MISEX3
+MISEX4,32.9926,-4.10352,REG,Reg,Reg,,,MISEX4,Reg,,,MISEX4
+MISIN1,33.01386,-4.09302,REG,Reg,Reg,,,MISIN1,Reg,,,MISIN1
+MISIN2,33.0117,-4.08321,REG,Reg,Reg,,,MISIN2,Reg,,,MISIN2
+MISIN3,33.00727,-4.10685,REG,Reg,Reg,,,MISIN3,Reg,,,MISIN3
+MISIN4,33.00143,-4.09707,REG,Reg,Reg,,,MISIN4,Reg,,,MISIN4
+NN42SE1,29.14138,-8.52519,WED,Ligne de drainage à Acacia,Gully,,,NN42SE1,Gully,,,NN42SE1
+NN42SE2,29.14112,-8.4985,REG,Reg,Reg,,,NN42SE2,Reg,,,NN42SE2
+NN42SE3,29.12327,-8.50285,REG,Reg,Reg,,,NN42SE3,Reg,,,NN42SE3
+NN42SE4,29.11871,-8.52437,REG,Reg,Reg,,,NN42SE4,Reg,,,NN42SE4
+NN42SE5,29.12992,-8.5116,WED,Ligne de drainage à Acacia,Gully,,,NN42SE5,Gully,,,NN42SE5
+PISTA1,33.18906,-3.9816,WED,Oued à Pistacia atlantica,Wadi,,,Pista1,Wadi,,,Pista1
+PISTA2,33.21777,-3.98722,WED,Oued à Pistacia atlantica,Wadi,,,Pista2,Wadi,,,Pista2
+PISTA3,33.21374,-3.94364,WED,Oued à Pistacia atlantica,Wadi,,,Pista3,Wadi,,,Pista3
+PISTA4,33.26739,-3.94475,WED,Oued à Pistacia atlantica,Wadi,,,Pista4,Wadi,,,Pista4
+PISTA5,33.27604,-3.9107,WED,Oued à Pistacia atlantica,Wadi,,,Pista5,Wadi,,,Pista5
+PP40NE1,29.89938,-7.48278,EPA,Epandage à Zygophyllum,Alluvial spread area,,,PP40NE1,Alluvial spread area,,,PP40NE1
+PP40NE2,29.89977,-7.45908,REG,Reg,Reg,,,PP40NE2,Reg,,,PP40NE2
+PP40NE3,29.87654,-7.46071,EPA,Epandage à Zygophyllum,Alluvial spread area,,,PP40NE3,Alluvial spread area,,,PP40NE3
+PP40NE4,29.88181,-7.49215,REG,Reg,Reg,,,PP40NE4,Reg,,,PP40NE4
+PP40NE5,29.8885,-7.47239,REG,Reg,Reg,,,PP40NE5,Reg,,,PP40NE5
+SANS1,32.31446,-2.37904,SAN,Sansouïre saharienne,Salty steppe,,,SANS1,Salty steppe,,,SANS1
+SANS2,32.32998,-2.37061,SAN,Sansouïre saharienne,Salty steppe,,,SANS2,Salty steppe,,,SANS2
+SANS3,32.26654,-2.39738,SAN,Sansouïre saharienne,Salty steppe,,,SANS3,Salty steppe,,,SANS3
+SANS4,32.27097,-2.36996,SAN,Sansouïre saharienne,Salty steppe,,,SANS4,Salty steppe,,,SANS4
+SANS5,32.3396,-2.36138,SAN,Sansouïre saharienne,Salty steppe,,,SANS5,Salty steppe,,,SANS5
+UB24SW1,32.9172,-4.91128,REG,Reg,Reg,,,UB24SW1,Reg,,,UB24SW1
+UB24SW2,32.91745,-4.88498,REG,Reg,Reg,,,UB24SW2,Reg,,,UB24SW2
+UB24SW3,32.89487,-4.88498,EPA,Epandage,Alluvial spread area,,,UB24SW3,Alluvial spread area,,,UB24SW3
+UB24SW4,32.89541,-4.91128,EPA,Epandage,Alluvial spread area,,,UB24SW4,Alluvial spread area,,,UB24SW4
+UB24SW5,32.90577,-4.89863,REG,Reg,Reg,,,UB24SW5,Reg,,,UB24SW5
+VB02SE1,32.74769,-4.0016,REG,Reg,Reg,,,VB02SE1,Reg,,,VB02SE1
+VB02SE2,32.74804,-3.97404,REG,Reg,Reg,,,VB02SE2,Reg,,,VB02SE2
+VB02SE3,32.72547,-3.97384,REG,Reg,Reg,,,VB02SE3,Reg,,,VB02SE3
+VB02SE4,32.72453,-4.00011,ALF,Alfatière,Macrochloa steppe,,,VB02SE4,Macrochloa steppe,,,VB02SE4
+VB02SE5,32.73616,-3.98711,EPA,Epandage,Alluvial spread area,,,VB02SE5,Alluvial spread area,,,VB02SE5
+VB14SW1,32.92851,-3.95083,REG,Reg,Reg,,,VB14SW1,Reg,,,VB14SW1
+VB14SW2,32.92837,-3.9225,REG,Reg,Reg,,,VB14SW2,Reg,,,VB14SW2
+VB14SW3,32.90524,-3.92202,REG,Reg,Reg,,,VB14SW3,Reg,,,VB14SW3
+VB14SW4,32.90565,-3.94929,EPA,Epandage,Alluvial spread area,,,VB14SW4,Alluvial spread area,,,VB14SW4
+VB14SW5,32.91688,-3.93535,REG,Reg,Reg,,,VB14SW5,Reg,,,VB14SW5
+VB17NW1,33.24372,-3.95266,REG,Reg,Reg,,,VB17NW1,Reg,,,VB17NW1
+VB17NW2,33.24394,-3.92644,REG,Reg,Reg,,,VB17NW2,Reg,,,VB17NW2
+VB17NW3,33.22201,-3.92537,REG,Reg,Reg,,,VB17NW3,Reg,,,VB17NW3
+VB17NW4,33.22181,-3.95174,REG,Reg,Reg,,,VB17NW4,Reg,,,VB17NW4
+VB17NW5,33.23245,-3.9387,REG,Reg,Reg,,,VB17NW5,Reg,,,VB17NW5
+VB84NW1,32.97655,-3.20103,REG,Reg,Reg,,,VB84NW1,Reg,,,VB84NW1
+VB84NW2,32.97679,-3.17399,REG,Reg,Reg,,,VB84NW2,Reg,,,VB84NW2
+VB84NW3,32.95816,-3.17614,REG,Reg,Reg,,,VB84NW3,Reg,,,VB84NW3
+VB84NW4,32.95183,-3.19767,REG,Reg,Reg,,,VB84NW4,Reg,,,VB84NW4
+VB84NW5,32.96318,-3.19304,ALF,Alfatière,Macrochloa steppe,,,VB84NW5,Macrochloa steppe,,,VB84NW5
+VB85SE1,33.0221,-3.14706,REG,Reg,Reg,,,VB85SE1,Reg,,,VB85SE1
+VB85SE2,33.0217,-3.12037,REG,Reg,Reg,,,VB85SE2,Reg,,,VB85SE2
+VB85SE3,32.99928,-3.12061,REG,Reg,Reg,,,VB85SE3,Reg,,,VB85SE3
+VB85SE4,32.99919,-3.14711,REG,Reg,Reg,,,VB85SE4,Reg,,,VB85SE4
+VB85SE5,33.01056,-3.13407,REG,Reg,Reg,,,VB85SE5,Reg,,,VB85SE5
+VC52SE1,33.65246,-3.47136,REG,Reg,Reg,,,VC52SE1,Reg,,,VC52SE1
+VC52SE2,33.65212,-3.444,REG,Reg,Reg,,,VC52SE2,Reg,,,VC52SE2
+VC52SE3,33.63064,-3.44553,REG,Reg,Reg,,,VC52SE3,Reg,,,VC52SE3
+VC52SE4,33.63083,-3.47116,REG,Reg,Reg,,,VC52SE4,Reg,,,VC52SE4
+VC52SE5,33.6425,-3.45835,REG,Reg,Reg,,,VC52SE5,Reg,,,VC52SE5
+WA67CHENOP,32.34727,-2.308,EPA,Epandage à Atriplex halimus,Alluvial spread area,,,WA67CHENOPOD5,Alluvial spread area,,,WA67CHENOPOD5
+WA67NW1,32.3443,-2.34932,EPA,Epandage à Atriplex halimus,Alluvial spread area,,,WA67NW1,Alluvial spread area,,,WA67NW1
+WA67NW2,32.34373,-2.3227,EPA,Epandage à Salsola,Alluvial spread area,,,WA67NW2,Alluvial spread area,,,WA67NW2
+WA67NW3,32.32128,-2.32271,EPA,Epandage/reg à Fredolia,Alluvial spread area,,,WA67NW3,Alluvial spread area,,,WA67NW3
+WA67NW4,32.32142,-2.34927,EPA,Epandage/reg à Salsola,Alluvial spread area,,,WA67NW4,Alluvial spread area,,,WA67NW4
+WA67NW5,32.33263,-2.3359,EPA,Epandage/reg à Salsola,Alluvial spread area,,,WA67NW5,Alluvial spread area,,,WA67NW5
+WB61NE1,32.70417,-2.29306,ALF,Alfatière,Macrochloa steppe,,,WB61NE1,Macrochloa steppe,,,WB61NE1
+WB61NE2,32.70424,-2.26585,ALF,Alfatière,Macrochloa steppe,,,WB61NE2,Macrochloa steppe,,,WB61NE2
+WB61NE3,32.68553,-2.25491,ALF,Alfatière,Macrochloa steppe,,,WB61NE3,Macrochloa steppe,,,WB61NE3
+WB61NE4,32.68225,-2.29274,ALF,Alfatière,Macrochloa steppe,,,WB61NE4,Macrochloa steppe,,,WB61NE4
+WB61NE5,32.69308,-2.27949,ALF,Alfatière,Macrochloa steppe,,,WB61NE5,Macrochloa steppe,,,WB61NE5
+WC24NE1,33.87822,-2.71555,ALF,Alfatière,Macrochloa steppe,,,WC24NE1,Macrochloa steppe,,,WC24NE1
+WC24NE2,33.8781,-2.68879,ALF,Alfatière,Macrochloa steppe,,,WC24NE2,Macrochloa steppe,,,WC24NE2
+WC24NE3,33.85576,-2.68914,ALF,Alfatière,Macrochloa steppe,,,WC24NE3,Macrochloa steppe,,,WC24NE3
+WC24NE4,33.85588,-2.7159,ALF,Alfatière,Macrochloa steppe,,,WC24NE4,Macrochloa steppe,,,WC24NE4
+WC24NE5,33.86718,-2.70229,ALF,Alfatière,Macrochloa steppe,,,WC24NE5,Macrochloa steppe,,,WC24NE5
+WC43NE1,33.78783,-2.50081,EPA,Epandage à Anabasis,Alluvial spread area,,,WC43NE1,Alluvial spread area,,,WC43NE1
+WC43NE2,33.78772,-2.4733,EPA,Epandage à Anabasis,Alluvial spread area,,,WC43NE2,Alluvial spread area,,,WC43NE2
+WC43NE3,33.76426,-2.47316,EPA,Epandage à Anabasis,Alluvial spread area,,,WC43NE3,Alluvial spread area,,,WC43NE3
+WC43NE4,33.7645,-2.50062,EPA,Epandage à Anabasis,Alluvial spread area,,,WC43NE4,Alluvial spread area,,,WC43NE4
+WC43NE5,33.77213,-2.48469,EPA,Epandage à Anabasis,Alluvial spread area,,,WC43NE5,Alluvial spread area,,,WC43NE5
