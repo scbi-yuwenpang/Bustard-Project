@@ -1,0 +1,46 @@
+name: python-gis-2026
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - netcdf4
+  - statsmodels
+  - shapely
+  - contextily
+  - jupyterlab
+  - openpyxl
+  - h5py
+  - geopandas
+  - pandas
+  - numpy
+  - ipykernel
+  - requests
+  - xlsxwriter
+  - matplotlib
+  - xarray
+  - scipy
+  - pyproj
+  - pyogrio
+  - fiona
+  - tqdm
+  - scikit-learn
+  - rasterio
+  - ipywidgets
+  - folium
+  - rioxarray
+  - gdal
+  - rasterstats
+  - xgboost
+  - geemap
+  - earthengine-api
+  - rios
+  - pysal
+  - mapclassify
+  - rsgislib
+  - xclim
+  - esda
+  - shap
+  - libpysal
+prefix: C:\Users\PangY\AppData\Local\miniconda3\envs\python-gis-2026
